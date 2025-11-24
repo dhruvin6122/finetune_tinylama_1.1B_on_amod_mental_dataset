@@ -4,7 +4,7 @@ A compassionate AI-powered mental health assistant built with your custom Huggin
 
 ## Features
 
-✨ **Compassionate AI Support** - Uses your fine-tuned `dhruvin0612/mental_health_assistant_1.1B` model
+✨ **Compassionate AI Support** - Uses my fine-tuned `dhruvin0612/mental_health_assistant_1.1B` model
 🔗 **LangChain Integration** - Structured prompts and conversation management
 🎨 **Premium UI** - Glassmorphic design with smooth animations
 💬 **Conversation History** - Maintains context across messages
